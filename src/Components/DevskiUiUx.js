@@ -10,8 +10,8 @@ import Insta from '../Images/Insta.png';
 import linkedin from '../Images/linkedin.png';
 import CardImage from '../Images/CardImage.png';
 import DevskiWebDevCss from '../Css/DevskiWebDev.module.css';
-import { Link } from "react-router-dom";
-import { useEffect, useNavigate } from 'react';
+import { Link, useNavigate } from "react-router-dom";
+import { useEffect } from 'react';
 
 function DevskiUiUx() {
     useEffect(() => {
